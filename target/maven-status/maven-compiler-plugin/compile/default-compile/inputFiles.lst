@@ -1,0 +1,9 @@
+/Users/austinwu/Documents/projects/java/codingassignment/src/main/java/com/assignement/coding/AssignmentApplication.java
+/Users/austinwu/Documents/projects/java/codingassignment/src/main/java/com/assignement/coding/Dto/BookCreateDTO.java
+/Users/austinwu/Documents/projects/java/codingassignment/src/main/java/com/assignement/coding/Dto/BookUpdateDTO.java
+/Users/austinwu/Documents/projects/java/codingassignment/src/main/java/com/assignement/coding/configuration/ValidationConfig.java
+/Users/austinwu/Documents/projects/java/codingassignment/src/main/java/com/assignement/coding/controller/BookController.java
+/Users/austinwu/Documents/projects/java/codingassignment/src/main/java/com/assignement/coding/entity/Book.java
+/Users/austinwu/Documents/projects/java/codingassignment/src/main/java/com/assignement/coding/exception/BookNotFoundException.java
+/Users/austinwu/Documents/projects/java/codingassignment/src/main/java/com/assignement/coding/repository/BookRepository.java
+/Users/austinwu/Documents/projects/java/codingassignment/src/main/java/com/assignement/coding/service/BookService.java
