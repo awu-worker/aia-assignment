@@ -2,8 +2,7 @@ spring:
   application:
     name: codingassignment
   datasource:
-    url: jdbc:mysql://localhost:3306/book?createDatabaseIfNotExist=true
-    username: root
-    password: MyPassword!
-  jpa:
-    show-sql: true
+    url: 
+    username: 
+    password: 
+
