@@ -1,9 +1,11 @@
 ### How to Run
 1. Create a database named `books` in MySQL.
-2. Update `application.yml` with your MySQL url, username and password.
-3. Run `mvn flyway:migrate` to create table
-4. Run application `mvn clean install` and `mvn spring-boot:run`.
-5. Run test `mvn test`.
+2. Update `application.yaml` with the MySQL url, username and password.
+3. Run `mvn clean install`.
+4. Run `mvn spring-boot:run`.
+
+### How to test
+1. Run test `mvn test`.
 ---
 
 ### ScreenShots
